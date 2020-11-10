@@ -1,3 +1,3 @@
-const nodeCarry = require('src');
+const nodeCarry = require('./src');
 
-module.exports = nodeCarry;
+module.exports = nodeCarry.NodeCarry;
