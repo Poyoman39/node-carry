@@ -1,0 +1,27 @@
+{
+  "name": "node-carry",
+  "version": "0.0.1",
+  "description": "Implement galileo Carry algorithm based on http://www.otlet-institute.org/docs/Carry.pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poyoman39/node-carry.git"
+  },
+  "keywords": [
+    "galileo",
+    "Carry",
+    "francais",
+    "french",
+    "lemmatisation",
+    "stemming"
+  ],
+  "author": "Johan Maupetit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Poyoman39/node-carry/issues"
+  },
+  "homepage": "https://github.com/Poyoman39/node-carry#readme"
+}
