@@ -1,6 +1,6 @@
 {
   "name": "node-carry",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Implement galileo Carry algorithm based on http://www.otlet-institute.org/docs/Carry.pdf",
   "main": "index.js",
   "scripts": {
