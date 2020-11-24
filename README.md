@@ -2,6 +2,8 @@
 
 Pure Javascript implementation of **Galileo Carry algorithm** based on http://www.otlet-institute.org/docs/Carry.pdf
 
+Note :bangbang:: The implementation descibed in the PDF differs with the one from [the official C++ implementation](http://www.otlet-institute.org/wikics/Building_GALILEI_Platform.html#toc-Section-3). *Node-carry* follows the C++ implementation rules which gives .
+
 ## Installation
 
     npm i node-carry
