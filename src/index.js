@@ -43,7 +43,7 @@ const tranform = (word, stepConf) => {
       minRadixSize <= 1 && !newWord;
       minRadixSize += 1
     ) {
-      const transformations = stepConf[minRadixSize] || [];
+      const transformations = stepConf[minRadixSize] || {};
       const newSuffix = transformations[suffix];
 
       if (newSuffix === undefined) {
